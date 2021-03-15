@@ -1,2 +1,2 @@
 # Csharp-Basic
-Task for learning C# from codeacademy, codewars etc,
+C# tasks from codeacademy, codewars etc,
